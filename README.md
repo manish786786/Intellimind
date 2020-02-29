@@ -94,8 +94,8 @@ MEAN app with microservice architecture for backend
 		-- userMail
 			Inside we have userMailData collection which will store user data such as mailId and number.
       
-    -- userReward
-			Inside we have userRewardData collection which will store user data who has signup and adding up his or her points so has to display on dashboard.
+   		 -- userReward
+			Inside we have userRewardData collection which will store user data who has signup and adding up his 			     r her points so has to display on dashboard.
 
 -- note -- here as we are implementing this with microservices we can use one mongodb and other sql,sqlite,cassandra,redis,etc
 
