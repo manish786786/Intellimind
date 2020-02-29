@@ -2,6 +2,9 @@
 MEAN app with microservice architecture for backend
 
 --note -- Go through the documentation and you can watch demo video too.
+-- imp note -- Go to path Intellimind/backend/userMailer/app.js
+		-- add your gmail user name and password in line number 36 and 37.
+			then only you can send mail to users mail id.
 
 1) Pre requirement to run this
 	
