@@ -32,18 +32,18 @@ MEAN app with microservice architecture for backend
 		-- Login page
 			-- Enter number and email
 			-- hit sign up
-      -- on submitting , user data will be store at database and mail will be send in users mail id with one coupon code.
+     			-- on submitting , user data will be store at database and mail will be send in users mail id with one coupon code.
 			-- it will route to thank you page
-      -- then we have one button in thank you page which will route you to dashboard.
-      -- when we land to dashboard then 
-        -- users ranked board service is called and data will be displayed in rows.
-        -- refferal coupon service will be called and data will be displayed in cards.
-        -- sign up coupon service will be called and data will be displayed in card.
+      			-- then we have one button in thank you page which will route you to dashboard.
+      			-- when we land to dashboard then 
+        		-- users ranked board service is called and data will be displayed in rows.
+        		-- refferal coupon service will be called and data will be displayed in cards.
+        		-- sign up coupon service will be called and data will be displayed in card.
 			-- at the bottom of the page again we have sign up form so that user who didn't sign in can sign in after watching sign up coupon.
 
 
 
-	4) Backend
+4) Backend
 	Library and framework used : Nodejs, mongodb , express , mongoose, nodemon
 
 		-- In backend folder we have	
@@ -68,7 +68,7 @@ MEAN app with microservice architecture for backend
 			--its own logic to perform task
 
 
-	5) Frontend
+5) Frontend
 	Library and framework used : Angular, HTML5 , css3
 
 		-- In frontend we have used MVC architecture so as to have better transparency of code (We can use this in backend as well as express provide routing feature)
